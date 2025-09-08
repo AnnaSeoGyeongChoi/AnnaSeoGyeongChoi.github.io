@@ -6,7 +6,7 @@ description: |
   Cornell University<br>
   Ithaca, NY, USA
   
-  [[[sc2359@cornell.edu]{.underline}](mailto:sc2359@cornell.edu)] &ensp; [[[CV]{.underline}](./files/Anna_Choi_CV.pdf)] &ensp; [[[GitHub]{.underline}](https://github.com/AnnaSeoGyeongChoi)] &ensp; [[[Google Scholar]{.underline}](https://scholar.google.com/citations?user=cGB8_a8AAAAJ&hl=en)] &ensp; [[[LinkedIN]{.underline}](https://www.linkedin.com/in/csganna/)]
+  [[sc2359@cornell.edu]{.underline}](mailto:sc2359@cornell.edu) &ensp; [[CV]{.underline}](./files/Anna_Choi_CV.pdf) &ensp; [[GitHub]{.underline}](https://github.com/AnnaSeoGyeongChoi) &ensp; [[Google Scholar]{.underline}](https://scholar.google.com/citations?user=cGB8_a8AAAAJ&hl=en) &ensp; [[LinkedIn]{.underline}](https://www.linkedin.com/in/csganna/)
 
 navbar: false
 about:
@@ -21,34 +21,11 @@ about:
 :::
 
 
-<!-- <div style="
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  margin: 10px 0; /* Adds vertical spacing without excessive whitespace */
-">
-  <span style="
-    background-color: #fdfbd3;
-    color: #373a3c;
-    border: 1px solid #727475;
-    padding: 6px;
-    border-radius: 5px;
-    display: inline-block;
-    max-width: 100%;
-    word-wrap: break-word;
-    text-align: center;
-  ">
-    <strong> On the Academic Job Market for 2026-2027! </strong>
-  </span>
-</div> -->
-
 ## Research
 
 Hi All! I’m Anna Seo Gyeong Choi. My Korean name is 최서경, but you can call me Anna!
 
 I’m currently a 5th-year Ph.D. candidate in Information Science at Cornell University, working with [Professor Allison Koenecke](https://koenecke.infosci.cornell.edu/). I’m affiliated with University of Pennsylvania as a Visiting Scholar at Linguistic Data Consortium, working with [Professor Sunghye Cho](https://www.sunghyecho.com/home). 
-
-My full CV is available [here](files/Anna_Choi_CV.pdf).
 
 I work in the intersection between AI Ethics and Automatic Speech Recognition, with interests in Human-Computer Interaction in terms of Accessibility for populations with atypical speech. I have two main research interests: **(1) Auditing Speech-to-Text algorithms** and **(2) Using voice as a biomarker in AI for Healthcare**. I work with diverse speech datasets to test for algorithmic fairness in ASR models and critique evaluation methods, both in terms of the technical aspect and the social and legal aspect. Because I work with speech data from people with health impairments, I analyze their acoustic features in an attempt to utilize voice as a biometric. I focus on diagnosis of their state in terms of severity, especially focusing on neurodegenerative disorders such as Alzheimer’s Disease, Schizophrenia, and Aphasia, among many others. Combining the two, I’m interested in increasing accessibility for these populations, such as working on transcription output styles.
 
@@ -69,8 +46,6 @@ B.A., 2015-2019, *Hispanic Language and Literature*
 **Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks**  
 Eileen Pan, [Anna Seo Gyeong Choi]{.underline}, Maartje Ter Hoeve, Skyler Seto, and Allison Koenecke  
 *Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings*, 2025.  
-[[pdf](#)]
-[[link](#)]
 
 **Fairness of Automatic Speech Recognition: Looking Through a Philosophical Lens**  
 [Anna Seo Gyeong Choi]{.underline} and Hoon Choi  
@@ -144,8 +119,6 @@ Sunhee Kim, Jooyeong Lee, [Anna Seo Gyeong Choi]{.underline}, Seunghun Ji, Jeemi
 **Pitfalls of Auditing Practices in Automatic Speech Recognition Technologies: A Case Study of People with Aphasia**  
 Katelyn X. Mei*, [Anna Seo Gyeong Choi]{.underline}*, Hilke Schellmann, Mona Sloane, and Allison Koenecke (* equal contribution)  
 *Under Review*  
-[[pdf](#)]
-[[link](#)]
 
 ## Miscellaneous
 
