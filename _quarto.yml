@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Ali Siahkoohi"
+  title: "Anna Seo Gyeong Choi"
   google-analytics: "G-VCVVD4KWRF"
   search: false
 
@@ -15,9 +15,9 @@ website:
       - text: <ins>Made with Quarto</ins>
         href: https://quarto.org
       - text: <ins>Source</ins>
-        href: https://github.com/alisiahkoohi/alisiahkoohi.github.io
+        href: https://github.com/AnnaSeoGyeongChoi/AnnaSeoGyeongChoi.github.io
       - text: <ins>License</ins>
-        href: https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/LICENSE
+        href: https://raw.githubusercontent.com/AnnaSeoGyeongChoi/AnnaSeoGyeongChoi.github.io/master/LICENSE
 
 format:
   html:

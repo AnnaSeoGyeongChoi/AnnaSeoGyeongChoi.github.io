@@ -44,7 +44,13 @@ about:
 
 ## Research
 
-My research tackles **uncertainty quantification** in complex systems arising in computational science and engineering, with a focus on building **reliable, uncertainty-aware AI** systems. To this end, my team develops methods that leverage tools like **generative models, variational inference, and hypernetworks** to characterize uncertainty in complex models at scale, with implications for **large-scale, PDE-based inverse problems**.
+Hi All! I’m Anna Seo Gyeong Choi. My Korean name is 최서경, but you can call me Anna!
+
+I’m currently a 5th-year Ph.D. candidate in Information Science at Cornell University, working with [Professor Allison Koenecke](https://koenecke.infosci.cornell.edu/). I’m affiliated with University of Pennsylvania as a Visiting Scholar at Linguistic Data Consortium, working with [Professor Sunghye Cho](https://www.sunghyecho.com/home). 
+
+My full CV is available [here](files/Anna_CV.pdf).
+
+I work in the intersection between AI Ethics and Automatic Speech Recognition, with interests in Human-Computer Interaction in terms of Accessibility for populations with atypical speech. I have two main research interests: **(1) Auditing Speech-to-Text algorithms** and **(2) Using voice as a biomarker in AI for Healthcare**. I work with diverse speech datasets to test for algorithmic fairness in ASR models and critique evaluation methods, both in terms of the technical aspect and the social and legal aspect. Because I work with speech data from people with health impairments, I analyze their acoustic features in an attempt to utilize voice as a biometric. I focus on diagnosis of their state in terms of severity, especially focusing on neurodegenerative disorders such as Alzheimer’s Disease, Schizophrenia, and Aphasia, among many others. Combining the two, I’m interested in increasing accessibility for these populations, such as working on transcription output styles.
 
 ## Education
 
@@ -69,41 +75,43 @@ Eileen Pan, [Anna Seo Gyeong Choi]{.underline}, Maartje Ter Hoeve, Skyler Seto, 
 **Fairness of Automatic Speech Recognition: Looking Through a Philosophical Lens**  
 [Anna Seo Gyeong Choi]{.underline} and Hoon Choi  
 *Proceedings of AAAI/ACM Conference on AI, Ethics, and Society (AIES)*, 2025.  
-[[pdf](PDF_LINK)]
+[[pdf](files/aies25.pdf)]
 [[link](https://arxiv.org/abs/2508.07143)]
 
 **Comparative Evaluation of Acoustic Feature Extraction Tools for Clinical Speech Analysis**  
 [Anna Seo Gyeong Choi]{.underline}, Alex Richardson, Ryan Partlan, Sunny X. Tang†, and Sunghye Cho† († equal contribution)  
 *Proceedings of Interspeech*, 2025.  
-[[pdf](PDF_LINK)]
+[[pdf](files/interspeech25feature.pdf)]
 [[link](https://arxiv.org/abs/2506.01129)]
-[[slides]()]
+[[slides](files/interspeech25feature_slides.pdf)]
 
 **Reasoning-Based Approach with Chain-of-Thought for Alzheimer's Detection Using Speech and Large Language Models**  
 Chanwoo Park, [Anna Seo Gyeong Choi]{.underline}, Sunghye Cho, and Chanwoo Kim  
 *Proceedings of Interspeech*, 2025.  
-[[pdf](PDF_LINK)]
+[[pdf](files/interspeech25cot.pdf)]
 [[link](https://arxiv.org/abs/2506.01683)]
 
 **Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition**  
 [Anna Seo Gyeong Choi]{.underline}*, Jonghyeon Park*, and Myungwoo Oh (* equal contribution)  
 *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.  
-[[pdf](PDF_LINK)]
+[[pdf](files/icassp25.pdf)]
 [[link](https://ieeexplore.ieee.org/abstract/document/10888676)]
-[[bib](BIB_LINK)]
 
 **Quantification of Automatic Speech Recognition System Performance on d/Deaf and Hard of Hearing Speech**  
 Robin Zhao*, [Anna Seo Gyeong Choi]{.underline}*, Allison Koenecke†, and Anais Rameau† (*, † equal contribution)  
 *The Laryngoscope*, 2024.  
-[[pdf](https://onlinelibrary.wiley.com/doi/10.1002/lary.31713)]
+[[pdf](files/laryngoscope24.pdf)]
 [[link](https://onlinelibrary.wiley.com/doi/10.1002/lary.31713)]
-[[bib](BIB_LINK)]
+[featured in the news ^[ACLU](https://www.aclu.org/press-releases/complaint-filed-against-intuit-and-hirevue-over-biased-ai-hiring-technology-that-works-worse-for-deaf-and-non-white-applicants)^]
 
 **Careless Whisper: Speech-to-Text Hallucination Harms**  
 Allison Koenecke, [Anna Seo Gyeong Choi]{.underline}*, Katelyn X. Mei*, Hilke Schellmann†, and Mona Sloane† (*, † equal contribution)  
 *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*, 2024.  
+[[pdf](files/facct24.pdf)]
 [[link](https://dl.acm.org/doi/abs/10.1145/3630106.3658996)]
+[[github](https://github.com/koenecke/hallucination_harms)]
 [[explainer video](https://vimeo.com/951267266)]
+[featured in the news ^[Science](https://www.science.org/content/article/ai-transcription-tools-hallucinate-too)^, ^[The Associated Press](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)^, ^[The Atlantic](https://www.theatlantic.com/technology/archive/2024/04/voice-dictation-siri-ai-boom/678001/), ^[The Verge](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies)^]
 
 **KoFREN: Comprehensive Korean Word Frequency Norms Derived from Large Scale Free Speech Corpora**  
 Jinseo Kim, [Anna Seo Gyeong Choi]{.underline}, and Sunghye Cho  
