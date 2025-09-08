@@ -6,7 +6,7 @@ description: |
   Cornell University<br>
   Ithaca, NY, USA
   
-  [[sc2359@cornell.edu]{.underline}](mailto:sc2359@cornell.edu) &ensp; [[CV]{.underline}](./files/Anna_Choi_CV.pdf) &ensp; [[GitHub]{.underline}](https://github.com/AnnaSeoGyeongChoi) &ensp; [[Google Scholar]{.underline}](https://scholar.google.com/citations?user=cGB8_a8AAAAJ&hl=en) &ensp; [[LinkedIn]{.underline}](https://www.linkedin.com/in/csganna/)
+  [[sc2359@cornell.edu]{.underline}](mailto:sc2359@cornell.edu) &ensp; [[CV]{.underline}](./files/Anna_Choi_CV.pdf) &ensp; [[GitHub]{.underline}](https://github.com/AnnaSeoGyeongChoi) &ensp; [[Google Scholar]{.underline}](https://scholar.google.com/citations?user=cGB8_a8AAAAJ&hl=en) &ensp; [[LinkedIN]{.underline}](https://www.linkedin.com/in/csganna/)
 
 navbar: false
 about:
@@ -20,19 +20,20 @@ about:
 :::{#heading}
 :::
 
-
 ## Research
 
-Hi All! I’m Anna Seo Gyeong Choi. My Korean name is 최서경, but you can call me Anna!
+Hi All! I'm Anna Seo Gyeong Choi. My Korean name is 최서경, but you can call me Anna!
 
-I’m currently a 5th-year Ph.D. candidate in Information Science at Cornell University, working with [Professor Allison Koenecke](https://koenecke.infosci.cornell.edu/). I’m affiliated with University of Pennsylvania as a Visiting Scholar at Linguistic Data Consortium, working with [Professor Sunghye Cho](https://www.sunghyecho.com/home). 
+I'm currently a 5th-year Ph.D. candidate in Information Science at Cornell University, working with [Professor Allison Koenecke](https://koenecke.infosci.cornell.edu/). I'm affiliated with University of Pennsylvania as a Visiting Scholar at Linguistic Data Consortium, working with [Professor Sunghye Cho](https://www.sunghyecho.com/home). 
 
-I work in the intersection between AI Ethics and Automatic Speech Recognition, with interests in Human-Computer Interaction in terms of Accessibility for populations with atypical speech. I have two main research interests: **(1) Auditing Speech-to-Text algorithms** and **(2) Using voice as a biomarker in AI for Healthcare**. I work with diverse speech datasets to test for algorithmic fairness in ASR models and critique evaluation methods, both in terms of the technical aspect and the social and legal aspect. Because I work with speech data from people with health impairments, I analyze their acoustic features in an attempt to utilize voice as a biometric. I focus on diagnosis of their state in terms of severity, especially focusing on neurodegenerative disorders such as Alzheimer’s Disease, Schizophrenia, and Aphasia, among many others. Combining the two, I’m interested in increasing accessibility for these populations, such as working on transcription output styles.
+My full CV is available [here](files/Anna_Choi_CV.pdf).
+
+I work in the intersection between AI Ethics and Automatic Speech Recognition, with interests in Human-Computer Interaction in terms of Accessibility for populations with atypical speech. I have two main research interests: **(1) Auditing Speech-to-Text algorithms** and **(2) Using voice as a biomarker in AI for Healthcare**. I work with diverse speech datasets to test for algorithmic fairness in ASR models and critique evaluation methods, both in terms of the technical aspect and the social and legal aspect. Because I work with speech data from people with health impairments, I analyze their acoustic features in an attempt to utilize voice as a biometric. I focus on diagnosis of their state in terms of severity, especially focusing on neurodegenerative disorders such as Alzheimer's Disease, Schizophrenia, and Aphasia, among many others. Combining the two, I'm interested in increasing accessibility for these populations, such as working on transcription output styles.
 
 ## Education
 
 **Cornell University**, Ithaca, NY, USA  
-Ph.D., 2021-present, *Information Science*
+Ph.D., 2021-present, *Information Science*  
 M.Sc., 2021-2024, *Information Science*
 
 **Seoul National University**, Seoul, South Korea  
@@ -76,8 +77,8 @@ Chanwoo Park, [Anna Seo Gyeong Choi]{.underline}, Sunghye Cho, and Chanwoo Kim
 Robin Zhao*, [Anna Seo Gyeong Choi]{.underline}*, Allison Koenecke†, and Anais Rameau† (*, † equal contribution)  
 *The Laryngoscope*, 2024.  
 [[pdf](files/laryngoscope24.pdf)]
-[[link](https://onlinelibrary.wiley.com/doi/10.1002/lary.31713)]
-[featured in the news ^[ACLU](https://www.aclu.org/press-releases/complaint-filed-against-intuit-and-hirevue-over-biased-ai-hiring-technology-that-works-worse-for-deaf-and-non-white-applicants)^]
+[[link](https://onlinelibrary.wiley.com/doi/10.1002/lary.31713)]  
+Featured in [ACLU](https://www.aclu.org/press-releases/complaint-filed-against-intuit-and-hirevue-over-biased-ai-hiring-technology-that-works-worse-for-deaf-and-non-white-applicants)
 
 **Careless Whisper: Speech-to-Text Hallucination Harms**  
 Allison Koenecke, [Anna Seo Gyeong Choi]{.underline}*, Katelyn X. Mei*, Hilke Schellmann†, and Mona Sloane† (*, † equal contribution)  
@@ -85,8 +86,8 @@ Allison Koenecke, [Anna Seo Gyeong Choi]{.underline}*, Katelyn X. Mei*, Hilke Sc
 [[pdf](files/facct24.pdf)]
 [[link](https://dl.acm.org/doi/abs/10.1145/3630106.3658996)]
 [[github](https://github.com/koenecke/hallucination_harms)]
-[[explainer video](https://vimeo.com/951267266)]
-[featured in the news ^[Science](https://www.science.org/content/article/ai-transcription-tools-hallucinate-too)^, ^[The Associated Press](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)^, ^[The Atlantic](https://www.theatlantic.com/technology/archive/2024/04/voice-dictation-siri-ai-boom/678001/), ^[The Verge](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies)^]
+[[explainer video](https://vimeo.com/951267266)]  
+Featured in [Science](https://www.science.org/content/article/ai-transcription-tools-hallucinate-too), [The Associated Press](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14), [The Atlantic](https://www.theatlantic.com/technology/archive/2024/04/voice-dictation-siri-ai-boom/678001/), [The Verge](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies)
 
 **KoFREN: Comprehensive Korean Word Frequency Norms Derived from Large Scale Free Speech Corpora**  
 Jinseo Kim, [Anna Seo Gyeong Choi]{.underline}, and Sunghye Cho  
@@ -123,4 +124,3 @@ Katelyn X. Mei*, [Anna Seo Gyeong Choi]{.underline}*, Hilke Schellmann, Mona Slo
 ## Miscellaneous
 
 I took my A-exam and became a PhD candidate. If anyone's interested in what I talked about, here are my [slides](files/Anna_Aexam_042224.pdf)
-
