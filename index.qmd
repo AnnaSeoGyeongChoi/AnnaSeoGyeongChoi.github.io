@@ -1,0 +1,146 @@
+---
+title: Anna Seo Gyeong Choi
+subtitle: PhD Candidate
+description: |
+  Information Science<br>
+  Cornell University<br>
+  Ithaca, NY, USA
+  
+  [[[sc2359@cornell.edu]{.underline}](mailto:sc2359@cornell.edu)] &ensp; [[[CV]{.underline}](./files/Anna_Choi_CV.pdf)] &ensp; [[[GitHub]{.underline}](https://github.com/AnnaSeoGyeongChoi)] &ensp; [[[Google Scholar]{.underline}](https://scholar.google.com/citations?user=cGB8_a8AAAAJ&hl=en)] &ensp; [[[LinkedIN]{.underline}](https://www.linkedin.com/in/csganna/)]
+
+navbar: false
+about:
+  id: heading
+  template: solana
+  image: files/profile.jpeg
+  image-shape: round
+  image-width: 215px
+---
+
+:::{#heading}
+:::
+
+
+<!-- <div style="
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 10px 0; /* Adds vertical spacing without excessive whitespace */
+">
+  <span style="
+    background-color: #fdfbd3;
+    color: #373a3c;
+    border: 1px solid #727475;
+    padding: 6px;
+    border-radius: 5px;
+    display: inline-block;
+    max-width: 100%;
+    word-wrap: break-word;
+    text-align: center;
+  ">
+    <strong> On the Academic Job Market for 2026-2027! </strong>
+  </span>
+</div> -->
+
+## Research
+
+My research tackles **uncertainty quantification** in complex systems arising in computational science and engineering, with a focus on building **reliable, uncertainty-aware AI** systems. To this end, my team develops methods that leverage tools like **generative models, variational inference, and hypernetworks** to characterize uncertainty in complex models at scale, with implications for **large-scale, PDE-based inverse problems**.
+
+## Education
+
+**Cornell University**, Ithaca, NY, USA  
+Ph.D., 2021-present, *Information Science*
+M.Sc., 2021-2024, *Information Science*
+
+**Seoul National University**, Seoul, South Korea  
+M.A., 2019-2021, *English Language and Literature*
+
+**Seoul National University**, Seoul, South Korea   
+B.A., 2015-2019, *Hispanic Language and Literature*
+
+## Publications
+
+**Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks**  
+Eileen Pan, [Anna Seo Gyeong Choi]{.underline}, Maartje Ter Hoeve, Skyler Seto, and Allison Koenecke  
+*Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings*, 2025.  
+[[pdf](PDF_LINK)]
+[[link](CONFERENCE_LINK)]
+
+**Fairness of Automatic Speech Recognition: Looking Through a Philosophical Lens**  
+[Anna Seo Gyeong Choi]{.underline} and Hoon Choi  
+*Proceedings of AAAI/ACM Conference on AI, Ethics, and Society (AIES)*, 2025.  
+[[pdf](PDF_LINK)]
+[[link](https://arxiv.org/abs/2508.07143)]
+
+**Comparative Evaluation of Acoustic Feature Extraction Tools for Clinical Speech Analysis**  
+[Anna Seo Gyeong Choi]{.underline}, Alex Richardson, Ryan Partlan, Sunny X. Tang†, and Sunghye Cho† († equal contribution)  
+*Proceedings of Interspeech*, 2025.  
+[[pdf](PDF_LINK)]
+[[link](https://arxiv.org/abs/2506.01129)]
+[[slides]()]
+
+**Reasoning-Based Approach with Chain-of-Thought for Alzheimer's Detection Using Speech and Large Language Models**  
+Chanwoo Park, [Anna Seo Gyeong Choi]{.underline}, Sunghye Cho, and Chanwoo Kim  
+*Proceedings of Interspeech*, 2025.  
+[[pdf](PDF_LINK)]
+[[link](https://arxiv.org/abs/2506.01683)]
+
+**Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition**  
+[Anna Seo Gyeong Choi]{.underline}*, Jonghyeon Park*, and Myungwoo Oh (* equal contribution)  
+*Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.  
+[[pdf](PDF_LINK)]
+[[link](https://ieeexplore.ieee.org/abstract/document/10888676)]
+[[bib](BIB_LINK)]
+
+**Quantification of Automatic Speech Recognition System Performance on d/Deaf and Hard of Hearing Speech**  
+Robin Zhao*, [Anna Seo Gyeong Choi]{.underline}*, Allison Koenecke†, and Anais Rameau† (*, † equal contribution)  
+*The Laryngoscope*, 2024.  
+[[pdf](https://onlinelibrary.wiley.com/doi/10.1002/lary.31713)]
+[[link](https://onlinelibrary.wiley.com/doi/10.1002/lary.31713)]
+[[bib](BIB_LINK)]
+
+**Careless Whisper: Speech-to-Text Hallucination Harms**  
+Allison Koenecke, [Anna Seo Gyeong Choi]{.underline}*, Katelyn X. Mei*, Hilke Schellmann†, and Mona Sloane† (*, † equal contribution)  
+*Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*, 2024.  
+[[link](https://dl.acm.org/doi/abs/10.1145/3630106.3658996)]
+[[explainer video](https://vimeo.com/951267266)]
+
+**KoFREN: Comprehensive Korean Word Frequency Norms Derived from Large Scale Free Speech Corpora**  
+Jinseo Kim, [Anna Seo Gyeong Choi]{.underline}, and Sunghye Cho  
+*Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)*, 2024.  
+[[pdf](PDF_LINK)]
+[[link](https://aclanthology.org/2024.lrec-main.866/)]
+
+**Crosslinguistic Acoustic Feature-based Dementia Classification using Advanced Learning Architectures**  
+[Anna Seo Gyeong Choi]{.underline}, Jinseo Kim, Seo-hee Kim, Minseok Baek, and Sunghye Cho  
+*Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) Workshop on Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments (RaPID-5)*, 2024.  
+[[pdf](PDF_LINK)]
+[[link](https://aclanthology.org/2024.rapid-1.11/)]
+
+**Augmented Datasheets for Speech Datasets and Ethical Decision-Making**  
+Orestis Papakyriakopoulos*, [Anna Seo Gyeong Choi]{.underline}*, William Thong, Dora Zhao, Jerome Andrews, Rebecca Bourke, Alice Xiang†, and Allison Koenecke† (*, † equal contribution)  
+*Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*, 2023.  
+[[pdf](PDF_LINK)]
+[[link](https://dl.acm.org/doi/10.1145/3593013.3594049)]
+[[github](https://github.com/SonyResearch/project_ethics_augmented_datasheets_for_speech_datasets)]
+[[talk video](https://www.youtube.com/watch?v=D6Dm5AzpW-E)]
+
+**Building Korean Conversational Speech Data in Emergency Medical Domain**  
+Sunhee Kim, Jooyeong Lee, [Anna Seo Gyeong Choi]{.underline}, Seunghun Ji, Jeemin Kang, Jongin Kim, et al.  
+*Phonetics and Speech Sciences*, 12(4), 2020.  
+[[pdf](PDF_LINK)]
+[[link](https://www.eksss.org/archive/view_article?pid=pss-12-4-81)]
+
+## Work in Progress
+
+**Pitfalls of Auditing Practices in Automatic Speech Recognition Technologies: A Case Study of People with Aphasia**  
+Katelyn X. Mei*, [Anna Seo Gyeong Choi]{.underline}*, Hilke Schellmann, Mona Sloane, and Allison Koenecke (* equal contribution)  
+*Under Review*  
+[[pdf](PDF_LINK)]
+[[link](PREPRINT_LINK)]
+[[bib](BIB_LINK)]
+
+## Miscellaneous
+
+I took my A-exam and became a PhD candidate. If anyone's interested in what I talked about, here are my [slides](files/Anna_Aexam_042224.pdf)
+
