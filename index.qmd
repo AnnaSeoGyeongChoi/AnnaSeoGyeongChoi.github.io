@@ -48,7 +48,7 @@ Hi All! I’m Anna Seo Gyeong Choi. My Korean name is 최서경, but you can cal
 
 I’m currently a 5th-year Ph.D. candidate in Information Science at Cornell University, working with [Professor Allison Koenecke](https://koenecke.infosci.cornell.edu/). I’m affiliated with University of Pennsylvania as a Visiting Scholar at Linguistic Data Consortium, working with [Professor Sunghye Cho](https://www.sunghyecho.com/home). 
 
-My full CV is available [here](files/Anna_CV.pdf).
+My full CV is available [here](files/Anna_Choi_CV.pdf).
 
 I work in the intersection between AI Ethics and Automatic Speech Recognition, with interests in Human-Computer Interaction in terms of Accessibility for populations with atypical speech. I have two main research interests: **(1) Auditing Speech-to-Text algorithms** and **(2) Using voice as a biomarker in AI for Healthcare**. I work with diverse speech datasets to test for algorithmic fairness in ASR models and critique evaluation methods, both in terms of the technical aspect and the social and legal aspect. Because I work with speech data from people with health impairments, I analyze their acoustic features in an attempt to utilize voice as a biometric. I focus on diagnosis of their state in terms of severity, especially focusing on neurodegenerative disorders such as Alzheimer’s Disease, Schizophrenia, and Aphasia, among many others. Combining the two, I’m interested in increasing accessibility for these populations, such as working on transcription output styles.
 
@@ -69,8 +69,8 @@ B.A., 2015-2019, *Hispanic Language and Literature*
 **Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks**  
 Eileen Pan, [Anna Seo Gyeong Choi]{.underline}, Maartje Ter Hoeve, Skyler Seto, and Allison Koenecke  
 *Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings*, 2025.  
-[[pdf](PDF_LINK)]
-[[link](CONFERENCE_LINK)]
+[[pdf](#)]
+[[link](#)]
 
 **Fairness of Automatic Speech Recognition: Looking Through a Philosophical Lens**  
 [Anna Seo Gyeong Choi]{.underline} and Hoon Choi  
@@ -116,19 +116,19 @@ Allison Koenecke, [Anna Seo Gyeong Choi]{.underline}*, Katelyn X. Mei*, Hilke Sc
 **KoFREN: Comprehensive Korean Word Frequency Norms Derived from Large Scale Free Speech Corpora**  
 Jinseo Kim, [Anna Seo Gyeong Choi]{.underline}, and Sunghye Cho  
 *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)*, 2024.  
-[[pdf](PDF_LINK)]
+[[pdf](files/lrec24kofren.pdf)]
 [[link](https://aclanthology.org/2024.lrec-main.866/)]
 
 **Crosslinguistic Acoustic Feature-based Dementia Classification using Advanced Learning Architectures**  
 [Anna Seo Gyeong Choi]{.underline}, Jinseo Kim, Seo-hee Kim, Minseok Baek, and Sunghye Cho  
 *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) Workshop on Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments (RaPID-5)*, 2024.  
-[[pdf](PDF_LINK)]
+[[pdf](files/lrec24dementia.pdf)]
 [[link](https://aclanthology.org/2024.rapid-1.11/)]
 
 **Augmented Datasheets for Speech Datasets and Ethical Decision-Making**  
 Orestis Papakyriakopoulos*, [Anna Seo Gyeong Choi]{.underline}*, William Thong, Dora Zhao, Jerome Andrews, Rebecca Bourke, Alice Xiang†, and Allison Koenecke† (*, † equal contribution)  
 *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*, 2023.  
-[[pdf](PDF_LINK)]
+[[pdf](files/facct23.pdf)]
 [[link](https://dl.acm.org/doi/10.1145/3593013.3594049)]
 [[github](https://github.com/SonyResearch/project_ethics_augmented_datasheets_for_speech_datasets)]
 [[talk video](https://www.youtube.com/watch?v=D6Dm5AzpW-E)]
@@ -136,7 +136,7 @@ Orestis Papakyriakopoulos*, [Anna Seo Gyeong Choi]{.underline}*, William Thong, 
 **Building Korean Conversational Speech Data in Emergency Medical Domain**  
 Sunhee Kim, Jooyeong Lee, [Anna Seo Gyeong Choi]{.underline}, Seunghun Ji, Jeemin Kang, Jongin Kim, et al.  
 *Phonetics and Speech Sciences*, 12(4), 2020.  
-[[pdf](PDF_LINK)]
+[[pdf](files/pss20.pdf)]
 [[link](https://www.eksss.org/archive/view_article?pid=pss-12-4-81)]
 
 ## Work in Progress
@@ -144,9 +144,8 @@ Sunhee Kim, Jooyeong Lee, [Anna Seo Gyeong Choi]{.underline}, Seunghun Ji, Jeemi
 **Pitfalls of Auditing Practices in Automatic Speech Recognition Technologies: A Case Study of People with Aphasia**  
 Katelyn X. Mei*, [Anna Seo Gyeong Choi]{.underline}*, Hilke Schellmann, Mona Sloane, and Allison Koenecke (* equal contribution)  
 *Under Review*  
-[[pdf](PDF_LINK)]
-[[link](PREPRINT_LINK)]
-[[bib](BIB_LINK)]
+[[pdf](#)]
+[[link](#)]
 
 ## Miscellaneous
 
