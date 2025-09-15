@@ -1,6 +1,6 @@
 ---
 title: "Publication"
-description: ""
+description: "List of Anna's Publications"
 ---
 
 ## Publications

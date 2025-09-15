@@ -14,12 +14,12 @@ menu:
     main:
         - name: Research
           url: research/
-          weight: 5 
+          weight: 1 
         - name: Publications
           url: publications/
           weight: 2
-        - name: Education
-          url: education/
+        - name: About Me
+          url: aboutme/
           weight: 3
         # - name: Courses
         #   url: courses/
@@ -47,7 +47,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","papers", "education"]
+    MainSections: ["research","papers", "aboutme"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -58,7 +58,7 @@ params:
     profileMode:
           enabled: true
           title: Anna Seo Gyeong Choi
-          subtitle: "Hi All! I’m Anna Seo Gyeong Choi. My Korean name is 최서경, but you can call me Anna! I’m currently a 5th-year Ph.D. candidate in Information Science at Cornell University, working with [Professor Allison Koenecke](https://koenecke.infosci.cornell.edu/). I started out my Ph.D. journey in the Linguistics Department, where I mostly worked with Professor Mats Rooth and Professor Sam Tilsen, and then transferred at the end of my 2nd year to Information Science. I still keep ties with the Linguistics by working for a minor degree. I’m currently affiliated with University of Pennsylvania as a Visiting Scholar at Linguistic Data Consortium, working with [Professor Sunghye Cho](https://www.sunghyecho.com/home). I work in the intersection between AI Ethics and Automatic Speech Recognition, with interests in Human-Computer Interaction in terms of Accessibility for populations with atypical speech. I have two main research interests: **(1) Auditing Speech-to-Text algorithms** and **(2) Using voice as a biomarker in AI for Healthcare**. I work with diverse speech datasets to test for algorithmic fairness in ASR models and critique evaluation methods, both in terms of the technical aspect and the social and legal aspect. Because I work with speech data from people with health impairments, I analyze their acoustic features in an attempt to utilize voice as a biometric. I focus on diagnosis of their state in terms of severity, especially focusing on neurodegenerative disorders such as Alzheimer’s Disease, Schizophrenia, and Aphasia, among many others. Combining the two, I’m interested in increasing accessibility for these populations, such as working on transcription output styles."
+          subtitle: "Hi All! I’m Anna Seo Gyeong Choi. My Korean name is 최서경, but you can call me Anna! I’m currently a 5th-year Ph.D. candidate in Information Science at Cornell University, working with [Professor Allison Koenecke](https://koenecke.infosci.cornell.edu/). I work in the intersection between AI Ethics and Automatic Speech Recognition, with interests in Human-Computer Interaction in terms of Accessibility for populations with atypical speech. "
           imageUrl: "profile.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -67,8 +67,8 @@ params:
               url: research/
             - name: Publication
               url: publications/
-            - name: Education
-              url: education/
+            - name: About Me
+              url: aboutme/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
