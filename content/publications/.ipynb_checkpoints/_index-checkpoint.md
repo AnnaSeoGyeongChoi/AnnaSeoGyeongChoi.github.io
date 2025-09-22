@@ -12,7 +12,7 @@ description: "List of Anna's Publications"
 
 * Katelyn X. Mei*, **Anna Seo Gyeong Choi***, Hilke Schellmann, Mona Sloane, & Allison Koenecke. (under review). Pitfalls of Auditing Practices in Automatic Speech Recognition Technologies: A Case Study of People with Aphasia. (* equal contribution)
 
-**Resources:** [arxiv](https://arxiv.org/abs/2506.08846) | [github](https://github.com/koenecke/auditing_asr_aphasia)
+    * **Resources:** [arxiv](https://arxiv.org/abs/2506.08846) | [github](https://github.com/koenecke/auditing_asr_aphasia)
 
 * **Anna Seo Gyeong Choi***, Maria Teleki*, Miguel del Rio Fernandez, James Caverlee, & Allison Koenecke. (in submission). SpeechSpectrum: A Framework for User-Controlled Speech-to-Text Representation Along the Linguistic Fidelity Spectrum. (* equal contribution)
 
