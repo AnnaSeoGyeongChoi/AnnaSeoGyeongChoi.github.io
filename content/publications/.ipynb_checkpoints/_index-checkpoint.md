@@ -5,6 +5,7 @@ description: "List of Anna's Publications"
 ## Publications
 
 ### Working Papers
+* Maria Teleki*, Anne Duray*, **Anna Seo Gyeong Choi***, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (* equal contribution). (in preparation). Building Institutional Capacity for the Accountable Deployment of AI
 
 * **Anna Seo Gyeong Choi**, Oresis Papakyriakopoulos, Allison Koenecke, & Alessandro Fabris. (in preparation). ClinSpeech: A Holistic Benchmark for evaluating ASR Fairness in Clinical Conversations.
 
@@ -20,9 +21,11 @@ description: "List of Anna's Publications"
 
 * Eileen Pan, **Anna Seo Gyeong Choi**, Maartje Ter Hoeve, Skyler Seto, & Allison Koenecke. (2025). Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks. *Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings*.
 
+    * [arxiv](https://arxiv.org/abs/2510.00962) | [slides](emnlp25_slides.pdf) | [poster](emnlp25_poster.pdf) 
+
 * **Anna Seo Gyeong Choi** & Hoon Choi. (2025). Fairness of Automatic Speech Recognition: Looking Through a Philosophical Lens. *Proceedings of AAAI/ACM Conference on AI, Ethics, and Society (AIES)*.
 
-    * [arxiv](https://arxiv.org/abs/2508.07143)
+    * [arxiv](https://arxiv.org/abs/2508.07143) | [official_link] | [slides](102025_aies.pdf)
 
 * **Anna Seo Gyeong Choi**, Alex Richardson, Ryan Partlan, Sunny X. Tang†, & Sunghye Cho†. (2025). Comparative Evaluation of Acoustic Feature Extraction Tools for Clinical Speech Analysis. *Proceedings of Interspeech*. († equal contribution)
 
