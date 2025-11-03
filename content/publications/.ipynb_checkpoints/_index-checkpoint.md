@@ -25,7 +25,7 @@ description: "List of Anna's Publications"
 
 * **Anna Seo Gyeong Choi** & Hoon Choi. (2025). Fairness of Automatic Speech Recognition: Looking Through a Philosophical Lens. *Proceedings of AAAI/ACM Conference on AI, Ethics, and Society (AIES)*.
 
-    * [arxiv](https://arxiv.org/abs/2508.07143) | [official_link] | [slides](102025_aies.pdf)
+    * [arxiv](https://arxiv.org/abs/2508.07143) | [official link](https://ojs.aaai.org/index.php/AIES/article/view/36574/38712) | [slides](102025_aies.pdf)
 
 * **Anna Seo Gyeong Choi**, Alex Richardson, Ryan Partlan, Sunny X. Tang†, & Sunghye Cho†. (2025). Comparative Evaluation of Acoustic Feature Extraction Tools for Clinical Speech Analysis. *Proceedings of Interspeech*. († equal contribution)
 
