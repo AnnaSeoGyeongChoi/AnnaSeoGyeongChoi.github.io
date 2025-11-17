@@ -5,7 +5,7 @@ description: "List of Anna's Publications"
 ## Publications
 
 ### Working Papers
-* Maria Teleki*, Anne Duray*, **Anna Seo Gyeong Choi***, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (* equal contribution). (in preparation). Building Institutional Capacity for the Accountable Deployment of AI
+* Maria Teleki, Anne Duray*, **Anna Seo Gyeong Choi***, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (* equal contribution). (in preparation). Building Institutional Capacity for the Accountable Deployment of AI
 
 * **Anna Seo Gyeong Choi**, Oresis Papakyriakopoulos, Allison Koenecke, & Alessandro Fabris. (in preparation). ClinSpeech: A Holistic Benchmark for evaluating ASR Fairness in Clinical Conversations.
 
@@ -49,9 +49,11 @@ description: "List of Anna's Publications"
 
 * Jinseo Kim, **Anna Seo Gyeong Choi**, & Sunghye Cho. (2024). KoFREN: Comprehensive Korean Word Frequency Norms Derived from Large Scale Free Speech Corpora. *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)*.
 
-    * [official link](https://aclanthology.org/2024.lrec-main.866/) |
+    * [official link](https://aclanthology.org/2024.lrec-main.866/)
 
 * **Anna Seo Gyeong Choi**, Jinseo Kim, Seo-hee Kim, Minseok Baek, & Sunghye Cho. (2024). Crosslinguistic Acoustic Feature-based Dementia Classification using Advanced Learning Architectures. *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) Workshop on Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments (RaPID-5)*.
+
+    * [official_link](https://aclanthology.org/2024.rapid-1.11.pdf)
 
 * Orestis Papakyriakopoulos*, **Anna Seo Gyeong Choi***, William Thong, Dora Zhao, Jerome Andrews, Rebecca Bourke, Alice Xiang†, & Allison Koenecke†. (2023). Augmented Datasheets for Speech Datasets and Ethical Decision-Making. *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*. (*, † equal contribution)
 
