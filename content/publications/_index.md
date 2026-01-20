@@ -5,9 +5,13 @@ description: "List of Anna's Publications"
 ## Publications
 
 ### Working Papers
-* Maria Teleki, Anne Duray*, **Anna Seo Gyeong Choi***, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (* equal contribution). (in preparation). Building Institutional Capacity for the Accountable Deployment of AI
+* **Anna Seo Gyeong Choi**, Maria Teleki, James Caverlee, Miguel del Rio Fernandez†, Corey Miller†, & Hoon Choi†. (in submission) Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation († equal contribution).
 
-* **Anna Seo Gyeong Choi**, Oresis Papakyriakopoulos, Allison Koenecke, & Alessandro Fabris. (in preparation). ClinSpeech: A Holistic Benchmark for evaluating ASR Fairness in Clinical Conversations.
+    * [preprint](2026FAccT_WERrange.pdf)
+
+* Maria Teleki, **Anna Seo Gyeong Choi**, Anne Duray, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (in submission). How Are U.S. Universities Responding to AI? An Audit of Governance Capacity.
+
+    * [preprint](FAccT_26_ACAI.pdf)
 
 * **Anna Seo Gyeong Choi**, Sunghye Cho, & Iris Nowenstein. (under review). PEEC: The Protected Entities Ethics Checklist for Collecting Speech Data from Vulnerable Clinical Populations.
 
@@ -15,7 +19,11 @@ description: "List of Anna's Publications"
 
     * [arxiv](https://arxiv.org/abs/2506.08846) | [github](https://github.com/koenecke/auditing_asr_aphasia)
 
-* **Anna Seo Gyeong Choi***, Maria Teleki*, Miguel del Rio Fernandez, James Caverlee, & Allison Koenecke. (in submission). SpeechSpectrum: A Framework for User-Controlled Speech-to-Text Representation Along the Linguistic Fidelity Spectrum. (* equal contribution)
+* **Anna Seo Gyeong Choi***, Maria Teleki*, Miguel del Rio Fernandez, Coerey Miller†, James Caverlee†, & Allison Koenecke†. (in submission). SpeechSpectrum: A Framework for User-Controlled Speech-to-Text Representation Along the Linguistic Fidelity Spectrum. (*,† equal contribution)
+
+    * [preprint](2026FAccT_SpeechSpectrum.pdf)
+
+* **Anna Seo Gyeong Choi**, Oresis Papakyriakopoulos, Allison Koenecke, & Alessandro Fabris. (in preparation). ClinSpeech: A Holistic Benchmark for evaluating ASR Fairness in Clinical Conversations.
 
 ### Peer-reviewed Articles
 
