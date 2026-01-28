@@ -4,13 +4,15 @@ description: "List of Anna's Publications"
 ---
 ## Publications
 (*,† denotes equal contribution)
+<span style="background-color: #b0d2e8">Papers focusing on Fairness in Speech Technologies</span>
+<span style="background-color: #f7ccb5">Papers focusing on Acoustic Biomarker in Clinical Speech Technologies</span>
 
 ### Working Papers
-* **Anna Seo Gyeong Choi**, Maria Teleki, James Caverlee, Miguel del Rio Fernandez†, Corey Miller†, & Hoon Choi†. (in submission, FAccT)  <span style="background-color: #b0d2e8">Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation</span>.
+* **Anna Seo Gyeong Choi**, Maria Teleki, James Caverlee, Miguel del Rio Fernandez†, Corey Miller†, & Hoon Choi†. (in submission, FAccT) <span style="background-color: #b0d2e8">Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation</span>.
 
     * [preprint](2026FAccT_WERrange.pdf)
 
-* Maria Teleki, **Anna Seo Gyeong Choi**, Anne Duray, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (in submission, FAccT). <span style="background-color: #b0d2e8">How Are U.S. Universities Responding to AI? An Audit of Governance Capacity</span>.
+* Maria Teleki, **Anna Seo Gyeong Choi**, Anne Duray, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (in submission, FAccT). How Are U.S. Universities Responding to AI? An Audit of Governance Capacity.
 
     * [preprint](FAccT_26_ACAI.pdf)
 
@@ -29,11 +31,11 @@ description: "List of Anna's Publications"
 ### Peer-reviewed Articles
 (All conference proceedings are peer-reviewed with the full articles.)
 
-* **Anna Seo Gyeong Choi**, Ryan Partlan, Alex Richardson, Sunghye Cho† & Sunny X. Tang†. (2026). <span style="background-color: #b0d2e8">Speech Prosody in Schizophrenia Spectrum Disorders: Perceptual Evaluation and Machine Classication</span>. *Proceedings of Speech Prosody*.
+* **Anna Seo Gyeong Choi**, Ryan Partlan, Alex Richardson, Sunghye Cho† & Sunny X. Tang†. (2026). <span style="background-color: #f7ccb5">Speech Prosody in Schizophrenia Spectrum Disorders: Perceptual Evaluation and Machine Classication</span>. *Proceedings of Speech Prosody*.
 
     * [preprint](2026SpeechProsody.pdf) 
 
-* Eileen Pan, **Anna Seo Gyeong Choi**, Maartje Ter Hoeve, Skyler Seto, & Allison Koenecke. (2025). <span style="background-color: #b0d2e8">Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks</span>. *Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings*.
+* Eileen Pan, **Anna Seo Gyeong Choi**, Maartje Ter Hoeve, Skyler Seto, & Allison Koenecke. (2025). Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks. *Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings*.
 
     * [arxiv](https://arxiv.org/abs/2510.00962) | [slides](emnlp25_slides.pdf) | [poster](emnlp25_poster.pdf) 
 
@@ -41,15 +43,15 @@ description: "List of Anna's Publications"
 
     * [arxiv](https://arxiv.org/abs/2508.07143) | [official link](https://ojs.aaai.org/index.php/AIES/article/view/36574/38712) | [slides](102025_aies.pdf)
 
-* **Anna Seo Gyeong Choi**, Alex Richardson, Ryan Partlan, Sunny X. Tang†, & Sunghye Cho†. (2025). <span style="background-color: #b0d2e8">Comparative Evaluation of Acoustic Feature Extraction Tools for Clinical Speech Analysis</span>. *Proceedings of Interspeech*.
+* **Anna Seo Gyeong Choi**, Alex Richardson, Ryan Partlan, Sunny X. Tang†, & Sunghye Cho†. (2025). <span style="background-color: #f7ccb5">Comparative Evaluation of Acoustic Feature Extraction Tools for Clinical Speech Analysis</span>. *Proceedings of Interspeech*.
 
     * [arxiv](https://arxiv.org/abs/2506.01129) | [official link](https://www.isca-archive.org/interspeech_2025/choi25h_interspeech.pdf) | [slides](interspeech25feature_slides.pdf)
 
-* Chanwoo Park, **Anna Seo Gyeong Choi**, Sunghye Cho, & Chanwoo Kim. (2025). <span style="background-color: #b0d2e8">Reasoning-Based Approach with Chain-of-Thought for Alzheimer's Detection Using Speech and Large Language Models</span>. *Proceedings of Interspeech*.
+* Chanwoo Park, **Anna Seo Gyeong Choi**, Sunghye Cho, & Chanwoo Kim. (2025). <span style="background-color: #f7ccb5">Reasoning-Based Approach with Chain-of-Thought for Alzheimer's Detection Using Speech and Large Language Models</span>. *Proceedings of Interspeech*.
 
     * [arxiv](https://arxiv.org/abs/2506.01683) | [official link](https://www.isca-archive.org/interspeech_2025/park25d_interspeech.pdf)
 
-* **Anna Seo Gyeong Choi***, Jonghyeon Park*, & Myungwoo Oh. (2025). <span style="background-color: #b0d2e8">Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition</span>. *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*.
+* **Anna Seo Gyeong Choi***, Jonghyeon Park*, & Myungwoo Oh. (2025). Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition. *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*.
 
     * [arxiv](https://arxiv.org/abs/2502.00583) | [official link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888676)
 
@@ -61,11 +63,11 @@ description: "List of Anna's Publications"
 
     * [arxiv](https://arxiv.org/abs/2402.08021) | [official link](https://dl.acm.org/doi/10.1145/3630106.3658996) | [explainer video](https://vimeo.com/951267266) | [github](https://github.com/koenecke/hallucination_harms)
 
-* Jinseo Kim, **Anna Seo Gyeong Choi**, & Sunghye Cho. (2024). <span style="background-color: #b0d2e8">KoFREN: Comprehensive Korean Word Frequency Norms Derived from Large Scale Free Speech Corpora</span>. *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)*.
+* Jinseo Kim, **Anna Seo Gyeong Choi**, & Sunghye Cho. (2024). KoFREN: Comprehensive Korean Word Frequency Norms Derived from Large Scale Free Speech Corpora. *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)*.
 
     * [official link](https://aclanthology.org/2024.lrec-main.866/)
 
-* **Anna Seo Gyeong Choi**, Jinseo Kim, Seo-hee Kim, Minseok Baek, & Sunghye Cho. (2024). <span style="background-color: #b0d2e8">Crosslinguistic Acoustic Feature-based Dementia Classification using Advanced Learning Architectures</span>. *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) Workshop on Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments (RaPID-5)*.
+* **Anna Seo Gyeong Choi**, Jinseo Kim, Seo-hee Kim, Minseok Baek, & Sunghye Cho. (2024). <span style="background-color: #f7ccb5">Crosslinguistic Acoustic Feature-based Dementia Classification using Advanced Learning Architectures</span>. *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) Workshop on Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments (RaPID-5)*.
 
     * [official_link](https://aclanthology.org/2024.rapid-1.11.pdf)
 
@@ -73,6 +75,6 @@ description: "List of Anna's Publications"
 
     * [arxiv](https://arxiv.org/abs/2305.04672) | [official link](https://dl.acm.org/doi/10.1145/3593013.3594049) | [recorded talk](https://www.youtube.com/watch?v=D6Dm5AzpW-E) | [github](https://github.com/SonyResearch/project_ethics_augmented_datasheets_for_speech_datasets)
 
-* Sunhee Kim, Jooyeong Lee, **Seo Gyeong Choi**, Seunghun Ji, Jeemin Kang, Jongin Kim, et al. (2020). <span style="background-color: #b0d2e8">Building Korean Conversational Speech Data in Emergency Medical Domain</span>. *Phonetics and Speech Sciences*, *12*(4).
+* Sunhee Kim, Jooyeong Lee, **Seo Gyeong Choi**, Seunghun Ji, Jeemin Kang, Jongin Kim, et al. (2020). Building Korean Conversational Speech Data in Emergency Medical Domain. *Phonetics and Speech Sciences*, *12*(4).
 
     * [official link](https://www.eksss.org/archive/view_article?pid=pss-12-4-81)
