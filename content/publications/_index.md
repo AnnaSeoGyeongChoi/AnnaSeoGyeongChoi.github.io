@@ -3,29 +3,36 @@ title: "Publication"
 description: "List of Anna's Publications"
 ---
 ## Publications
+(*,† denotes equal contribution)
 
 ### Working Papers
-* **Anna Seo Gyeong Choi**, Maria Teleki, James Caverlee, Miguel del Rio Fernandez†, Corey Miller†, & Hoon Choi†. (in submission) Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation († equal contribution).
+* **Anna Seo Gyeong Choi**, Maria Teleki, James Caverlee, Miguel del Rio Fernandez†, Corey Miller†, & Hoon Choi†. (in submission, FAccT)  <span style="background-color: #b0d2e8">Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation</span>.
 
     * [preprint](2026FAccT_WERrange.pdf)
 
-* Maria Teleki, **Anna Seo Gyeong Choi**, Anne Duray, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (in submission). How Are U.S. Universities Responding to AI? An Audit of Governance Capacity.
+* Maria Teleki, **Anna Seo Gyeong Choi**, Anne Duray, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (in submission, FAccT). How Are U.S. Universities Responding to AI? An Audit of Governance Capacity.
 
     * [preprint](FAccT_26_ACAI.pdf)
 
-* **Anna Seo Gyeong Choi**, Sunghye Cho, & Iris Nowenstein. (under review). PEEC: The Protected Entities Ethics Checklist for Collecting Speech Data from Vulnerable Clinical Populations.
+* **Anna Seo Gyeong Choi**, Sunghye Cho, & Iris Nowenstein. (under second revision, JSLHR). PEEC: The Protected Entities Ethics Checklist for Collecting Speech Data from Vulnerable Clinical Populations.
 
-* Katelyn X. Mei*, **Anna Seo Gyeong Choi***, Hilke Schellmann, Mona Sloane, & Allison Koenecke. (under review). Pitfalls of Auditing Practices in Automatic Speech Recognition Technologies: A Case Study of People with Aphasia. (* equal contribution)
+* Katelyn X. Mei*, **Anna Seo Gyeong Choi***, Hilke Schellmann, Mona Sloane, & Allison Koenecke. (in submission, FAccT). Pitfalls of Auditing Practices in Automatic Speech Recognition Technologies: A Case Study of People with Aphasia.
 
     * [arxiv](https://arxiv.org/abs/2506.08846) | [github](https://github.com/koenecke/auditing_asr_aphasia)
 
-* **Anna Seo Gyeong Choi***, Maria Teleki*, Miguel del Rio Fernandez, Coerey Miller†, James Caverlee†, & Allison Koenecke†. (in submission). SpeechSpectrum: A Framework for User-Controlled Speech-to-Text Representation Along the Linguistic Fidelity Spectrum. (*,† equal contribution)
+* **Anna Seo Gyeong Choi***, Maria Teleki*, Miguel del Rio Fernandez, Coerey Miller†, James Caverlee†, & Allison Koenecke†. (in submission, FAccT). SpeechSpectrum: A Framework for User-Controlled Speech-to-Text Representation Along the Linguistic Fidelity Spectrum.
 
     * [preprint](2026FAccT_SpeechSpectrum.pdf)
 
 * **Anna Seo Gyeong Choi**, Oresis Papakyriakopoulos, Allison Koenecke, & Alessandro Fabris. (in preparation). ClinSpeech: A Holistic Benchmark for evaluating ASR Fairness in Clinical Conversations.
 
 ### Peer-reviewed Articles
+(All conference proceedings are peer-reviewed with the full articles.)
+
+* **Anna Seo Gyeong Choi**, Ryan Partlan, Alex Richardson, Sunghye Cho† & Sunny X. Tang†. (2026). Speech Prosody in Schizophrenia Spectrum Disorders: Perceptual Evaluation
+and Machine Classication. *Proceedings of Speech Prosody*.
+
+    * [arxiv](https://arxiv.org/abs/2510.00962) | [slides](emnlp25_slides.pdf) | [poster](emnlp25_poster.pdf) 
 
 * Eileen Pan, **Anna Seo Gyeong Choi**, Maartje Ter Hoeve, Skyler Seto, & Allison Koenecke. (2025). Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks. *Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings*.
 
@@ -35,7 +42,7 @@ description: "List of Anna's Publications"
 
     * [arxiv](https://arxiv.org/abs/2508.07143) | [official link](https://ojs.aaai.org/index.php/AIES/article/view/36574/38712) | [slides](102025_aies.pdf)
 
-* **Anna Seo Gyeong Choi**, Alex Richardson, Ryan Partlan, Sunny X. Tang†, & Sunghye Cho†. (2025). Comparative Evaluation of Acoustic Feature Extraction Tools for Clinical Speech Analysis. *Proceedings of Interspeech*. († equal contribution)
+* **Anna Seo Gyeong Choi**, Alex Richardson, Ryan Partlan, Sunny X. Tang†, & Sunghye Cho†. (2025). Comparative Evaluation of Acoustic Feature Extraction Tools for Clinical Speech Analysis. *Proceedings of Interspeech*.
 
     * [arxiv](https://arxiv.org/abs/2506.01129) | [official link](https://www.isca-archive.org/interspeech_2025/choi25h_interspeech.pdf) | [slides](interspeech25feature_slides.pdf)
 
@@ -43,15 +50,15 @@ description: "List of Anna's Publications"
 
     * [arxiv](https://arxiv.org/abs/2506.01683) | [official link](https://www.isca-archive.org/interspeech_2025/park25d_interspeech.pdf)
 
-* **Anna Seo Gyeong Choi***, Jonghyeon Park*, & Myungwoo Oh. (2025). Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition. *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*. (* equal contribution)
+* **Anna Seo Gyeong Choi***, Jonghyeon Park*, & Myungwoo Oh. (2025). Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition. *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*.
 
-    * [arxiv](https://arxiv.org/abs/2508.07143) | [official link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888676)
+    * [arxiv](https://arxiv.org/abs/2502.00583) | [official link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888676)
 
-* Robin Zhao*, **Anna Seo Gyeong Choi***, Allison Koenecke†, & Anais Rameau†. (2024). Quantification of Automatic Speech Recognition System Performance on d/Deaf and Hard of Hearing Speech. *The Laryngoscope*. (*, † equal contribution)
+* Robin Zhao*, **Anna Seo Gyeong Choi***, Allison Koenecke†, & Anais Rameau†. (2024). Quantification of Automatic Speech Recognition System Performance on d/Deaf and Hard of Hearing Speech. *The Laryngoscope*.
 
     * [official link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/lary.31713)
 
-* Allison Koenecke, **Anna Seo Gyeong Choi***, Katelyn X. Mei*, Hilke Schellmann†, & Mona Sloane†. (2024). Careless Whisper: Speech-to-Text Hallucination Harms. *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*. (*, † equal contribution)
+* Allison Koenecke, **Anna Seo Gyeong Choi***, Katelyn X. Mei*, Hilke Schellmann†, & Mona Sloane†. (2024). Careless Whisper: Speech-to-Text Hallucination Harms. *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*.
 
     * [arxiv](https://arxiv.org/abs/2402.08021) | [official link](https://dl.acm.org/doi/10.1145/3630106.3658996) | [explainer video](https://vimeo.com/951267266) | [github](https://github.com/koenecke/hallucination_harms)
 
