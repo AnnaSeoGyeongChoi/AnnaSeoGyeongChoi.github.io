@@ -4,7 +4,9 @@ description: "List of Anna's Publications"
 ---
 ## Publications
 (*,† denotes equal contribution)
+
 <span style="background-color: #b0d2e8">Papers focusing on Fairness in Speech Technologies</span>
+
 <span style="background-color: #f7ccb5">Papers focusing on Acoustic Biomarker in Clinical Speech Technologies</span>
 
 ### Working Papers
@@ -31,7 +33,7 @@ description: "List of Anna's Publications"
 ### Peer-reviewed Articles
 (All conference proceedings are peer-reviewed with the full articles.)
 
-* **Anna Seo Gyeong Choi**, Ryan Partlan, Alex Richardson, Sunghye Cho† & Sunny X. Tang†. (2026). <span style="background-color: #f7ccb5">Speech Prosody in Schizophrenia Spectrum Disorders: Perceptual Evaluation and Machine Classication</span>. *Proceedings of Speech Prosody*.
+* **Anna Seo Gyeong Choi**, Ryan Partlan, Alex Richardson, Sunghye Cho† & Sunny X. Tang†. (2026). <span style="background-color: #f7ccb5">Speech Prosody in Schizophrenia Spectrum Disorders: Perceptual Evaluation and Machine Classification</span>. *Proceedings of Speech Prosody*.
 
     * [preprint](2026SpeechProsody.pdf) 
 
