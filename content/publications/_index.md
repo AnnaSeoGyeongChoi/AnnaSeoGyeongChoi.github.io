@@ -18,8 +18,6 @@ description: "List of Anna's Publications"
 
     * [preprint](FAccT_26_ACAI.pdf)
 
-* **Anna Seo Gyeong Choi**, Sunghye Cho, & Iris Nowenstein. (under second revision, JSLHR). <span style="background-color: #b0d2e8">PEEC: The Protected Entities Ethics Checklist for Collecting Speech Data from Vulnerable Clinical Populations</span>.
-
 * Katelyn X. Mei*, **Anna Seo Gyeong Choi***, Hilke Schellmann, Mona Sloane, & Allison Koenecke. (in submission, FAccT). <span style="background-color: #b0d2e8">Pitfalls of Auditing Practices in Automatic Speech Recognition Technologies: A Case Study of People with Aphasia</span>.
 
     * [arxiv](https://arxiv.org/abs/2506.08846) | [github](https://github.com/koenecke/auditing_asr_aphasia)
@@ -32,6 +30,12 @@ description: "List of Anna's Publications"
 
 ### Peer-reviewed Articles
 (All conference proceedings are peer-reviewed with the full articles.)
+
+* **Anna Seo Gyeong Choi**, Sunghye Cho, & Iris Nowenstein. (2026). <span style="background-color: #b0d2e8">PEEC: The Protected Entities Ethics Checklist for Collecting Speech Data from Vulnerable Clinical Populations</span>. *Journal of Speech, Language, and Hearing Research*.
+
+* Mona Sloane, Hilke Schellmann, Katelyn X. Mei*, **Anna Seo Gyeong Choi***, & Allison Koenecke. (2026). <span style="background-color: #b0d2e8">The case for stakeholder-driven AI auditing in automatic speech recognition</span>. *Nature Machine Intelligence*.
+
+    * [official link](https://www.nature.com/articles/s42256-026-01207-x) 
 
 * **Anna Seo Gyeong Choi**, Ryan Partlan, Alex Richardson, Sunghye Cho† & Sunny X. Tang†. (2026). <span style="background-color: #f7ccb5">Speech Prosody in Schizophrenia Spectrum Disorders: Perceptual Evaluation and Machine Classification</span>. *Proceedings of Speech Prosody*.
 
