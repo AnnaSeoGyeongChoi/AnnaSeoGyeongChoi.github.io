@@ -66,12 +66,12 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Research
-              url: research/
+            # - name: Research
+            #   url: research/
             - name: Publication
               url: publications/
-            - name: About Me
-              url: aboutme/
+            # - name: About Me
+            #   url: aboutme/
             - name: CV
               url: Anna_Choi_CV.pdf
             # - name: Blog
