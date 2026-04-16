@@ -14,14 +14,6 @@ description: "List of Anna's Publications"
 
     * [preprint](2026FAccT_WERrange.pdf)
 
-* Maria Teleki, **Anna Seo Gyeong Choi**, Anne Duray, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (in submission, FAccT). How Are U.S. Universities Responding to AI? An Audit of Governance Capacity.
-
-    * [preprint](FAccT_26_ACAI.pdf)
-
-* Katelyn X. Mei*, **Anna Seo Gyeong Choi***, Hilke Schellmann, Mona Sloane, & Allison Koenecke. (in submission, FAccT). <span style="background-color: #b0d2e8">Pitfalls of Auditing Practices in Automatic Speech Recognition Technologies: A Case Study of People with Aphasia</span>.
-
-    * [arxiv](https://arxiv.org/abs/2506.08846) | [github](https://github.com/koenecke/auditing_asr_aphasia)
-
 * **Anna Seo Gyeong Choi***, Maria Teleki*, Miguel del Rio Fernandez, Coerey Miller†, James Caverlee†, & Allison Koenecke†. (in submission, FAccT). <span style="background-color: #b0d2e8">SpeechSpectrum: A Framework for User-Controlled Speech-to-Text Representation Along the Linguistic Fidelity Spectrum</span>.
 
     * [preprint](2026FAccT_SpeechSpectrum.pdf)
@@ -30,6 +22,14 @@ description: "List of Anna's Publications"
 
 ### Peer-reviewed Articles
 (All conference proceedings are peer-reviewed with the full articles.)
+
+* Maria Teleki, **Anna Seo Gyeong Choi**, Anne Duray, Sai Tejas Janjur, Xiangjue Dong, James Caverlee, & Dilma da Silva. (2026). How Are U.S. Universities Responding to AI? An Audit of Governance Capacity. *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*.
+
+    * [preprint](FAccT_26_ACAI.pdf)
+
+* Katelyn X. Mei*, **Anna Seo Gyeong Choi***, Hilke Schellmann, Mona Sloane, & Allison Koenecke. (2026). <span style="background-color: #b0d2e8">Pitfalls of Auditing Practices in Automatic Speech Recognition Technologies: A Case Study of People with Aphasia</span>. *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*.
+
+    * [arxiv](https://arxiv.org/abs/2506.08846) | [github](https://github.com/koenecke/auditing_asr_aphasia)
 
 * **Anna Seo Gyeong Choi**, Sunghye Cho, & Iris Nowenstein. (2026). <span style="background-color: #b0d2e8">PEEC: The Protected Entities Ethics Checklist for Collecting Speech Data from Vulnerable Clinical Populations</span>. *Journal of Speech, Language, and Hearing Research*.
 

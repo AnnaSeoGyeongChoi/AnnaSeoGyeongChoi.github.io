@@ -1,4 +1,4 @@
-baseURL: "https://annaseogyeongchoi.github.io/" 
+fbaseURL: "https://annaseogyeongchoi.github.io/" 
 title: Anna Seo Gyeong Choi
 theme: PaperMod
 
@@ -68,7 +68,7 @@ params:
           buttons:
             # - name: Research
             #   url: research/
-            - name: Publication
+            - name: Publications
               url: publications/
             # - name: About Me
             #   url: aboutme/
