@@ -1,4 +1,4 @@
-baseURL: "https://annaseogyeongchoi.github.io/" 
+fbaseURL: "https://annaseogyeongchoi.github.io/" 
 title: Anna Seo Gyeong Choi
 theme: PaperMod
 
@@ -61,14 +61,14 @@ params:
     profileMode:
           enabled: true
           title: Anna Seo Gyeong Choi
-          subtitle: "Hi All! I’m currently a 5th-year Ph.D. candidate in Information Science at Cornell University, working with [Professor Allison Koenecke](https://koenecke.infosci.cornell.edu/). I work in the intersection between AI Ethics and Automatic Speech Recognition, with interests in Human-Computer Interaction in terms of Accessibility for populations with atypical speech. "
+          subtitle: "Hi All! I'll be joining the Martin Tuchman School of Management at New Jersey Institute of Technology as an Assistant Professor of AI in Business starting Fall 2026. I'm currently wrapping up my Ph.D, in Information Science at Cornell University, working with [Professor Allison Koenecke](https://koenecke.infosci.cornell.edu/). I work in the intersection between AI Ethics and Automatic Speech Recognition, with interests in Human-Computer Interaction in terms of Accessibility for populations with atypical speech."
           imageUrl: "profile.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             # - name: Research
             #   url: research/
-            - name: Publication
+            - name: Publications
               url: publications/
             # - name: About Me
             #   url: aboutme/
