@@ -10,6 +10,8 @@ description: "List of Anna's Publications"
 <span style="background-color: #f7ccb5">Papers focusing on Acoustic Biomarker in Clinical Speech Technologies</span>
 
 ### Working Papers
+* **Anna Seo Gyeong Choi**, Hoon Choi, & AJ Alvero. (under review, Minds and Machines) Heard, but Not Listened To: Speech Recognition, Epistemic Injustice, and the Virtue of Legal Infrastructure.
+
 * **Anna Seo Gyeong Choi**, Maria Teleki, James Caverlee, Miguel del Rio Fernandez†, Corey Miller†, & Hoon Choi†. (in submission, FAccT) <span style="background-color: #b0d2e8">Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation</span>.
 
     * [preprint](2026FAccT_WERrange.pdf)
