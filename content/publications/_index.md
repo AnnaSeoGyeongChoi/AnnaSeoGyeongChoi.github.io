@@ -43,7 +43,7 @@ description: "List of Anna's Publications"
 
 * Eileen Pan, **Anna Seo Gyeong Choi**, Maartje Ter Hoeve, Skyler Seto, & Allison Koenecke. (2025). Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks. *Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings*.
 
-    * [arxiv](https://arxiv.org/abs/2510.00962) | [slides](emnlp25_slides.pdf) | [poster](emnlp25_poster.pdf) 
+    * [arxiv](https://arxiv.org/abs/2510.00962) | [official link](https://aclanthology.org/2025.findings-emnlp.1139.pdf) | [slides](emnlp25_slides.pdf) | [poster](emnlp25_poster.pdf) 
 
 * **Anna Seo Gyeong Choi** & Hoon Choi. (2025). <span style="background-color: #b0d2e8">Fairness of Automatic Speech Recognition: Looking Through a Philosophical Lens</span>. *Proceedings of AAAI/ACM Conference on AI, Ethics, and Society (AIES)*.
 
@@ -68,6 +68,7 @@ description: "List of Anna's Publications"
 * Allison Koenecke, **Anna Seo Gyeong Choi***, Katelyn X. Mei*, Hilke Schellmann†, & Mona Sloane†. (2024). <span style="background-color: #b0d2e8">Careless Whisper: Speech-to-Text Hallucination Harms. *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*.
 
     * [arxiv](https://arxiv.org/abs/2402.08021) | [official link](https://dl.acm.org/doi/10.1145/3630106.3658996) | [explainer video](https://vimeo.com/951267266) | [github](https://github.com/koenecke/hallucination_harms)
+    * Media: [Science](https://www.science.org/content/article/ai-transcription-tools-hallucinate-too) | [The Associated Press](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14) | [The Atlantic](https://www.theatlantic.com/technology/archive/2024/04/voice-dictation-siri-ai-boom/678001/) | [The Verge](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies)
 
 * Jinseo Kim, **Anna Seo Gyeong Choi**, & Sunghye Cho. (2024). KoFREN: Comprehensive Korean Word Frequency Norms Derived from Large Scale Free Speech Corpora. *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)*.
 
@@ -75,7 +76,7 @@ description: "List of Anna's Publications"
 
 * **Anna Seo Gyeong Choi**, Jinseo Kim, Seo-hee Kim, Minseok Baek, & Sunghye Cho. (2024). <span style="background-color: #f7ccb5">Crosslinguistic Acoustic Feature-based Dementia Classification using Advanced Learning Architectures</span>. *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) Workshop on Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments (RaPID-5)*.
 
-    * [official_link](https://aclanthology.org/2024.rapid-1.11.pdf)
+    * [official link](https://aclanthology.org/2024.rapid-1.11.pdf)
 
 * Orestis Papakyriakopoulos*, **Anna Seo Gyeong Choi***, William Thong, Dora Zhao, Jerome Andrews, Rebecca Bourke, Alice Xiang†, & Allison Koenecke†. (2023). <span style="background-color: #b0d2e8">Augmented Datasheets for Speech Datasets and Ethical Decision-Making</span>. *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*.
 
