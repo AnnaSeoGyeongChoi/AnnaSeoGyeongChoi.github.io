@@ -10,11 +10,19 @@ description: "List of Anna's Publications"
 <span style="background-color: #f7ccb5">Papers focusing on Acoustic Biomarker in Clinical Speech Technologies</span>
 
 ### Working Papers
-* **Anna Seo Gyeong Choi**, Maria Teleki, James Caverlee, Miguel del Rio Fernandez†, Corey Miller†, & Hoon Choi†. (in submission, FAccT) <span style="background-color: #b0d2e8">Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation</span>.
+* **Anna Seo Gyeong Choi**, & Hoon Choi. (under review). Decentralizing the Standard: Epistemic Centralization, Linguistic Sovereignty, and the Governance of Speech AI.
+
+* **Anna Seo Gyeong Choi**, & Hoon Choi. (under review). Does Artificial Intelligence Have a Soul?
+  
+* **Anna Seo Gyeong Choi**, Hoon Choi, & AJ Alvero. (under review). Heard, but Not Listened To: Speech Recognition, Epistemic Injustice, and the Virtue of Legal Infrastructure.
+
+* **Anna Seo Gyeong Choi**, & Hoon Choi. (in submission, AIES). Equivalence Without Invariance: A Formal Critique of Scalar Evaluation in AI-Mediated Speech.
+  
+* **Anna Seo Gyeong Choi**, Maria Teleki, James Caverlee, Miguel del Rio Fernandez†, Corey Miller†, & Hoon Choi†. (in submission, AIES) <span style="background-color: #b0d2e8">Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation</span>.
 
     * [arxiv](https://arxiv.org/abs/2605.07084)
 
-* **Anna Seo Gyeong Choi***, Maria Teleki*, Miguel del Rio Fernandez, Coerey Miller†, James Caverlee†, & Allison Koenecke†. (in submission, FAccT). <span style="background-color: #b0d2e8">SpeechSpectrum: A Framework for User-Controlled Speech-to-Text Representation Along the Linguistic Fidelity Spectrum</span>.
+* **Anna Seo Gyeong Choi***, Maria Teleki*, Miguel del Rio Fernandez, Coerey Miller†, James Caverlee†, & Allison Koenecke†. (in submission, CSCW). <span style="background-color: #b0d2e8">SpeechSpectrum: A Framework for User-Controlled Speech-to-Text Representation Along the Linguistic Fidelity Spectrum</span>.
 
     * [preprint](2026FAccT_SpeechSpectrum.pdf)
 
