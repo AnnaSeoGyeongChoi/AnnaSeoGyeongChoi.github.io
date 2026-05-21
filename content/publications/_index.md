@@ -12,7 +12,7 @@ description: "List of Anna's Publications"
 ### Working Papers
 * **Anna Seo Gyeong Choi**, Maria Teleki, James Caverlee, Miguel del Rio Fernandez†, Corey Miller†, & Hoon Choi†. (in submission, FAccT) <span style="background-color: #b0d2e8">Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation</span>.
 
-    * [preprint](2026FAccT_WERrange.pdf)
+    * [arxiv](https://arxiv.org/abs/2605.07084)
 
 * **Anna Seo Gyeong Choi***, Maria Teleki*, Miguel del Rio Fernandez, Coerey Miller†, James Caverlee†, & Allison Koenecke†. (in submission, FAccT). <span style="background-color: #b0d2e8">SpeechSpectrum: A Framework for User-Controlled Speech-to-Text Representation Along the Linguistic Fidelity Spectrum</span>.
 
@@ -39,7 +39,7 @@ description: "List of Anna's Publications"
 
 * **Anna Seo Gyeong Choi**, Ryan Partlan, Alex Richardson, Sunghye Cho† & Sunny X. Tang†. (2026). <span style="background-color: #f7ccb5">Speech Prosody in Schizophrenia Spectrum Disorders: Perceptual Evaluation and Machine Classification</span>. *Proceedings of Speech Prosody*.
 
-    * [preprint](2026SpeechProsody.pdf) 
+    * [official link](https://www.isca-archive.org/speechprosody_2026/choi26_speechprosody.pdf) | [slides](2026SpeechProsody_slides.pdf)
 
 * Eileen Pan, **Anna Seo Gyeong Choi**, Maartje Ter Hoeve, Skyler Seto, & Allison Koenecke. (2025). Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks. *Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings*.
 
@@ -75,7 +75,7 @@ description: "List of Anna's Publications"
 
 * **Anna Seo Gyeong Choi**, Jinseo Kim, Seo-hee Kim, Minseok Baek, & Sunghye Cho. (2024). <span style="background-color: #f7ccb5">Crosslinguistic Acoustic Feature-based Dementia Classification using Advanced Learning Architectures</span>. *Proceedings of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) Workshop on Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments (RaPID-5)*.
 
-    * [official_link](https://aclanthology.org/2024.rapid-1.11.pdf)
+    * [official link](https://aclanthology.org/2024.rapid-1.11.pdf)
 
 * Orestis Papakyriakopoulos*, **Anna Seo Gyeong Choi***, William Thong, Dora Zhao, Jerome Andrews, Rebecca Bourke, Alice Xiang†, & Allison Koenecke†. (2023). <span style="background-color: #b0d2e8">Augmented Datasheets for Speech Datasets and Ethical Decision-Making</span>. *Proceedings of ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*.
 
