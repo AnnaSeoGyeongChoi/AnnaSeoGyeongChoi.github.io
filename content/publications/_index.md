@@ -12,7 +12,7 @@ description: "List of Anna's Publications"
 ### Working Papers
 * **Anna Seo Gyeong Choi**, & Hoon Choi. (under review). Decentralizing the Standard: Epistemic Centralization, Linguistic Sovereignty, and the Governance of Speech AI.
 
-* **Anna Seo Gyeong Choi**, & Hoon Choi. (under review). Does Artificial Intelligence Have a Soul?
+* **Anna Seo Gyeong Choi**, & Hoon Choi. (under review). Does Artificial Intelligence Have a Soul?: A Socratic Dialogue
   
 * **Anna Seo Gyeong Choi**, Hoon Choi, & AJ Alvero. (under review). Heard, but Not Listened To: Speech Recognition, Epistemic Injustice, and the Virtue of Legal Infrastructure.
 
@@ -40,6 +40,7 @@ description: "List of Anna's Publications"
     * [arxiv](https://arxiv.org/abs/2506.08846) | [github](https://github.com/koenecke/auditing_asr_aphasia)
 
 * **Anna Seo Gyeong Choi**, Sunghye Cho, & Iris Nowenstein. (2026). <span style="background-color: #b0d2e8">PEEC: The Protected Entities Ethics Checklist for Collecting Speech Data from Vulnerable Clinical Populations</span>. *Journal of Speech, Language, and Hearing Research*.
+    * [official link](https://pubs.asha.org/doi/10.1044/2026_JSLHR-25-00540) 
 
 * Mona Sloane, Hilke Schellmann, Katelyn X. Mei*, **Anna Seo Gyeong Choi***, & Allison Koenecke. (2026). <span style="background-color: #b0d2e8">The case for stakeholder-driven AI auditing in automatic speech recognition</span>. *Nature Machine Intelligence*.
 
