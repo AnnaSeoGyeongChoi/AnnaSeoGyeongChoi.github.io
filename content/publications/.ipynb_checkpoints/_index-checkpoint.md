@@ -10,7 +10,6 @@ description: "List of Anna's Publications"
 <span style="background-color: #f7ccb5">Papers focusing on Acoustic Biomarker in Clinical Speech Technologies</span>
 
 ### Working Papers
-* **Anna Seo Gyeong Choi**, & Hoon Choi. (under review). Decentralizing the Standard: Epistemic Centralization, Linguistic Sovereignty, and the Governance of Speech AI.
 
 * **Anna Seo Gyeong Choi**, & Hoon Choi. (under review). Does Artificial Intelligence Have a Soul?: A Socratic Dialogue
   
